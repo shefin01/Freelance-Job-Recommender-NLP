@@ -60,10 +60,10 @@ Freelance-Job-Recommender-NLP/
 ## 🖼️ Screenshots
 
 ### 🔹 App Interface  
-![Interface](screenshots/interface.png)
+![Interface](Screenshots/Interface.png)
 
 ### 🔹 Recommendation Output  
-![Result](screenshots/result.png)
+![Result](Screenshots/job_recommendation.png)
 
 ---
 
