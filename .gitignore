@@ -1,0 +1,16 @@
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac/Linux junk
+.DS_Store
+
+# Python environment
+.env
+
+# Large data & model files
+*.pkl
+*.csv
